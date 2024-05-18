@@ -71,7 +71,7 @@ class MainKtTest {
             sumDayTransfers = sumDayTransfers,
             newTransfer = newTransfer
         )
-        assertEquals(-750, result)
+        assertEquals(750, result)
 
     }
 
